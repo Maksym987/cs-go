@@ -1,0 +1,65 @@
+body {  
+    background-color: cyan
+  }
+
+h1 {
+    color: rgb(236, 100, 100);
+    font-size: 45px;
+    text-align: center;
+    box-shadow : 50px;
+}
+li {
+      font-size: 15px;
+      color:black;
+
+}
+.text-1 {
+    color: red;
+}
+.text-2 {
+   color: yellowgreen;
+}   
+.text-3  {
+    color:gold;
+}
+.text-4 {
+    color: darkorchid;
+}
+.photo-1 {
+    width: 500px;
+    height:550px;
+    margin-left: 250px;
+}
+.text-5 {
+    color: rgba(228, 130, 19, 0.973);
+}
+.text-6 {
+    color: rgb(133, 21, 21);
+}
+.text-7 {
+    color:navy;
+}
+.photo-2 {
+    width: 550px;
+    height: 350px;
+    margin-left: 250px;
+}
+.photo-3 {
+    width: 550px;
+    height: 350px;
+    margin-left: 250px;
+}
+.photo-4 {
+    width: 500px;
+    height: 450px;
+    margin-left: 350px;
+}
+.photo-5 {
+    width: 400px;
+    height: 420px;
+    margin-left: 350px;
+}
+
+.linb {
+     text-decoration: none
+}
